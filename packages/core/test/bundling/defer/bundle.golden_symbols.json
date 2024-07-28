@@ -207,9 +207,6 @@
     "name": "EventManagerPlugin"
   },
   {
-    "name": "EventType"
-  },
-  {
     "name": "GLOBAL_EVENT_DELEGATION"
   },
   {
@@ -1134,6 +1131,9 @@
     "name": "init_bindings"
   },
   {
+    "name": "init_bootstrap_app_scoped"
+  },
+  {
     "name": "init_bypass"
   },
   {
@@ -1351,6 +1351,9 @@
   },
   {
     "name": "init_dom_triggers"
+  },
+  {
+    "name": "init_earlyeventcontract"
   },
   {
     "name": "init_effect"
